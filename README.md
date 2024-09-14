@@ -14,6 +14,7 @@ This collection will _NOT_ include the `.vimrc` as that exists within [dotvim](h
 
 # List of dotfiles
 
+* `.config/iterm2` - Configuration for [iterm](https://iterm2.com/)
 * `.config/starship.toml` - Configuration for [Starship.rs](https://starship.rs/)
 * `.gitconfig` - Configuration for [git](https://git-scm.com/)
 * `.hammerspoon` - Configuration for [Hammerspoon](https://www.hammerspoon.org/)
