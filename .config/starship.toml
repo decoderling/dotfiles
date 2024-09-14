@@ -1,0 +1,6 @@
+# Configurations for Starship
+# Reference: https://starship.rs/config
+
+[character]
+success_symbol = '[➜](bold green)'
+error_symbol = '[✗](bold red)'
